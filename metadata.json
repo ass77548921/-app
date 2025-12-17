@@ -1,0 +1,7 @@
+{
+  "name": "WeekWeather AI",
+  "description": "A smart weather dashboard that uses Gemini AI and Google Search to provide comprehensive 7-day weather forecasts with visualizations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
